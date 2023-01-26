@@ -1,7 +1,0 @@
-C:\EXERCISE\DocCsharp\Udemy\bin\Debug\Udemy.exe.config
-C:\EXERCISE\DocCsharp\Udemy\bin\Debug\Udemy.exe
-C:\EXERCISE\DocCsharp\Udemy\bin\Debug\Udemy.pdb
-C:\EXERCISE\DocCsharp\Udemy\obj\Debug\Udemy.csprojAssemblyReference.cache
-C:\EXERCISE\DocCsharp\Udemy\obj\Debug\Udemy.csproj.CoreCompileInputs.cache
-C:\EXERCISE\DocCsharp\Udemy\obj\Debug\Udemy.exe
-C:\EXERCISE\DocCsharp\Udemy\obj\Debug\Udemy.pdb
